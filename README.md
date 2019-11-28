@@ -34,3 +34,17 @@ We study the problem of generating a set of realistic and diverse backgrounds wh
 ## Street Scene Examples
 
 <img src='demo_imgs/sampled_city.png' align="middle" width=720>
+
+
+
+## Citation
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1910.11481):
+
+```
+@article{zhang2019multimodal,
+  title={Multimodal Image Outpainting With Regularized Normalized Diversification},
+  author={Zhang, Lingzhi and Wang, Jiancong and Shi, Jianbo},
+  journal={arXiv preprint arXiv:1910.11481},
+  year={2019}
+}
+```
