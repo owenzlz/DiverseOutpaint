@@ -5,4 +5,12 @@ This is a Pytorch implementation of our paper "Multimodal Image Outpainting".
 [Lingzhi Zhang](https://owenzlz.github.io/), Jiancong Wang, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/)  <br />
 GRASP Laboratory, University of Pennsylvania
 
+## Introduction
 
+We study the problem of generating a set of realistic and diverse backgrounds when given only a small foreground region, which we formulate as image outpainting task. We propose a generative model by improving the normalized diversification framework to encourage diverse sampling in this conditional synthesis task. The results show that our proposed approach can produce more diverse images with similar or better quality compare to the state-of-the-arts methods.
+
+<img src='demo_imgs/first_demo.png' align="middle" width=540>
+
+## Usage
+
+[TODO]
