@@ -20,13 +20,6 @@ We study the problem of generating a set of realistic and diverse backgrounds wh
 
 <img src='demo_imgs/synthetic_results.png' align="middle" width=720>
 
-
-## Real Image Results Comparison
-
-<img src='demo_imgs/div_image_comparison.png' align="middle" width=720>
-<img src='demo_imgs/tsne.png' align="middle" width=720>
-
-
 ## Face Examples
 
 <img src='demo_imgs/sampled_face.png' align="middle" width=720>
