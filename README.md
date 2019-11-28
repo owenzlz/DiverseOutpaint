@@ -24,6 +24,7 @@ We study the problem of generating a set of realistic and diverse backgrounds wh
 ## Real Image Results Comparison
 
 <img src='demo_imgs/div_image_comparison.png' align="middle" width=720>
+<img src='demo_imgs/tsne.png' align="middle" width=720>
 
 
 ## Face Examples
