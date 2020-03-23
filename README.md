@@ -33,7 +33,7 @@ The synthetic experiment and real image experiment codes are in the folder "synt
 
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1910.11481):
+If you use this code for your research, please cite our [paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf):
 
 ```
 @inproceedings{zhang2020multimodal,
