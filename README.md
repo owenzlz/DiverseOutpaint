@@ -5,7 +5,7 @@ This is a Pytorch implementation of our paper "Multimodal Image Outpainting".
 [Lingzhi Zhang](https://owenzlz.github.io/), Jiancong Wang, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/)  <br />
 GRASP Laboratory, University of Pennsylvania
 
-This paper is published in Winter Conference on Applications of Computer Vision (WACV), 2020.
+In Winter Conference on Applications of Computer Vision (WACV), 2020.
 
 ## Introduction
 
