@@ -1,7 +1,7 @@
 # Multimodal Image Outpainting
 This is a Pytorch implementation of our paper "Multimodal Image Outpainting". 
 
-[Multimodal Image Outpainting With Regularized Normalized Diversification](https://arxiv.org/abs/1910.11481) <br />
+[Multimodal Image Outpainting With Regularized Normalized Diversification](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multimodal_Image_Outpainting_With_Regularized_Normalized_Diversification_WACV_2020_paper.pdf) <br />
 [Lingzhi Zhang](https://owenzlz.github.io/), Jiancong Wang, [Jianbo Shi](https://www.cis.upenn.edu/~jshi/)  <br />
 GRASP Laboratory, University of Pennsylvania
 
