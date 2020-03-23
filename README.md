@@ -36,10 +36,11 @@ The synthetic experiment and real image experiment codes are in the folder "synt
 If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1910.11481):
 
 ```
-@article{zhang2019multimodal,
+@inproceedings{zhang2020multimodal,
   title={Multimodal Image Outpainting With Regularized Normalized Diversification},
   author={Zhang, Lingzhi and Wang, Jiancong and Shi, Jianbo},
-  journal={arXiv preprint arXiv:1910.11481},
-  year={2019}
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={3433--3442},
+  year={2020}
 }
 ```
