@@ -156,11 +156,11 @@ for e in range(num_epochs):
 
 	########## Save Models At Each Epoch ##########
 	if not os.path.exists('models'): os.mkdir('models')
-	torch.save(encoder, 'models/encoder_'+str(epoch)+'.pt')
-	torch.save(decoder, 'models/decoder_'+str(epoch)+'.pt')
-	torch.save(discriminator, 'models/discriminator_'+str(step)+'.pt')
+	torch.save(encoder, 'models/encoder_'+str(e)+'.pt')
+	torch.save(decoder, 'models/decoder_'+str(e)+'.pt')
+	torch.save(discriminator, 'models/discriminator_'+str(e)+'.pt')
 	torch.save({
-			'epoch': epoch,
+			'epoch': e,
             'encoder_state_dict': encoder.state_dict(),
             'decoder_state_dict': decoder.state_dict(),
             'discriminator_state_dict': discriminator.state_dict(),
